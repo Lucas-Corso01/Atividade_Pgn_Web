@@ -1,6 +1,6 @@
 # Projeto: Atividade_Pgn_Web
 
-Alunos: 1. Lucas Ribas Corso - RA 1139917 e Vinicius Gehring Capellari RA 1138972
+Alunos: 1. Lucas Ribas Corso - RA 1139917 e, 2. Vinicius Gehring Capellari RA 1138972
 
 # Spotify - Página de Cadastro (Clone)
 
