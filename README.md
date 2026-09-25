@@ -24,7 +24,6 @@ O projeto visa reproduzir o layout visual da página de inscrição do Spotify (
 ```
 ├── index.html
 ├── style.css
-├── logo.png
 └── README.md
 ```
 
