@@ -37,9 +37,10 @@ O projeto visa reproduzir o layout visual da página de inscrição do Spotify (
 2. Certifique-se de que `index.html`, `style.css` e `logo.png` estão na mesma pasta
 3. Abra o arquivo `index.html` no navegador de sua preferência
 
-## 👤 Autor
+## 👤 Autores
 
 **Lucas Ribas Corso**
+** Vinicius Gehring Capellari
 
 ## 📌 Observação
 
