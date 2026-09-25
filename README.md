@@ -43,7 +43,7 @@ O projeto visa reproduzir o layout visual da página de inscrição do Spotify (
 
 ## 👤 Autores
 
-# Lucas Ribas Corso**
+# Lucas Ribas Corso
 # Vinicius Gehring Capellari
 
 ## 📌 Observação
