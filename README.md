@@ -1,4 +1,7 @@
-# Atividade_Pgn_Web
+# Projeto: Atividade_Pgn_Web
+
+Alunos: 1. Lucas Ribas Corso - RA 1139917 e Vinicius Gehring Capellari RA 1138972
+
 # Spotify - Página de Cadastro (Clone)
 
 Clone da interface da página de cadastro do Spotify, desenvolvido como atividade acadêmica com foco em HTML e CSS.
