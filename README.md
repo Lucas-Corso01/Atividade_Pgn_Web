@@ -8,7 +8,7 @@ Clone da interface da página de cadastro do Spotify, desenvolvido como atividad
 
 ## 🎯 Objetivo
 
-Reproduzir o layout visual da página de inscrição do Spotify (https://www.spotify.com/br-pt/signup), praticando estruturação semântica de HTML e estilização com CSS puro, sem uso de JavaScript.
+O projeto visa reproduzir o layout visual da página de inscrição do Spotify (https://www.spotify.com/br-pt/signup), praticando estruturação semântica de HTML e estilização com CSS puro, sem uso de JavaScript. 
 
 ## 🛠️ Tecnologias utilizadas
 
