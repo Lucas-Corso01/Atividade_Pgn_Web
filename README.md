@@ -2,7 +2,7 @@
 
 # Resumo Executivo 
 
-O projeto Atividade_Pgn_Web é uma aplicação/página web desenvolvida como parte de uma atividade de fixação de conceitos de desenvolvimento Front-End e aplicações web. O objetivo principal é consolidar práticas essenciais de estrutura, estilização e interatividade web.
+O projeto Atividade_Pgn_Web ( file:///c%3A/Users/lucas/Desktop/projetos/Trabalho/index.html ) é uma aplicação/página web desenvolvida como parte de uma atividade de fixação de conceitos de desenvolvimento Front-End e aplicações web. O objetivo principal é consolidar práticas essenciais de estrutura, estilização e interatividade web.
 
 # Alunos participantes: 1. Lucas Ribas Corso - RA 1139917 e, 2. Vinicius Gehring Capellari RA 1138972
 
